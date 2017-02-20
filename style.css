@@ -1,0 +1,26 @@
+div {
+	font-size: 18px;
+}
+
+input {
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid blue;
+}
+
+span {
+	padding: 15px;
+	line-height: 300%;
+}
+
+.info {
+	background-color: #ffe680;	
+}
+
+.red-team {
+	background-color: #ff6666;	
+}
+
+.blue-team {
+	background-color: #3377ff;	
+}
